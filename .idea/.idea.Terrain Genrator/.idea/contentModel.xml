@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Projects\Terrain Genrator" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="_CodeBase" t="Include">
+          <e p="DemoFramework" t="Include">
+            <e p="IDemo.cs" t="Include" />
+          </e>
+          <e p="Demos" t="Include">
+            <e p="TerrainDemo.cs" t="Include" />
+            <e p="TerrainGenerator.cs" t="Include" />
+            <e p="TerrainPatch.cs" t="Include" />
+          </e>
+        </e>
+        <e p="_Scripts" t="Include">
+          <e p="CameraController.cs" t="Include" />
+          <e p="GameManager.cs" t="Include" />
+          <e p="PlayerController.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Terrain Genrator.sln" t="IncludeFlat" />
+    </e>
+    <e p="C:\Users\90543\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\90543\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Terrain Genrator.-1762042957.00" t="ExcludeRecursive" />
+  </component>
+</project>
